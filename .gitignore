@@ -1,0 +1,11 @@
+/target/
+/\logs\creditcardapp.log
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+.classpath
+.settings/
+.project
+*.git
